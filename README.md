@@ -1,3 +1,3 @@
-# Najwyzszy-Gear
+# Najwyższy Gear
 
-Just an old highschool project. Downolad whole folder and open **index.html** in a browser.
+Just an old highschool website project. Downolad whole folder and open **index.html** in a browser.
