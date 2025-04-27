@@ -14,7 +14,7 @@ html, body {
 }
 
 #NAGLOWEK {
-	background-image: url("baner.png");
+	background-image: url("img/baner.png");
 	height:200px
 }
 
@@ -32,7 +32,7 @@ html, body {
 	float: left;
 	overflow: hidden;
 	background-color: #ffffff;
-	background-image: url("baner1.png");
+	background-image: url("img/baner1.png");
 	{ font-family: Arial, Times New Roman}
 }
 
